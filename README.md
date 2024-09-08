@@ -8,7 +8,7 @@ Morelikely the female version of Jarvis.
 # Hope U like my project
 <br>
 
-Description:
+*Description:*
 <br>
 Jessi is your AI Assistant enabled on your voice. It uses Gemini chatbot API to make answers of your questions. It performs task that you say to her.
 <br>
@@ -19,6 +19,9 @@ Step 2: Say Jessi To wake it up. Once, waked up U are good to go.
 Step3: Jessi can do some tasks for you which are.
 <br>
   1- Say  "OPen GOOGLE/Facebook/Youtube/LinkedIN" to open GOOGLE/Facebook/Youtube/LinkedIN
+  <br>
   2- Say "News Tesla/Apple" to Open their news i have added only these two. You can add more by your self.
+  <br>
   3- Say "Play afsany/softly" to play any of this song you want on youtube. you can add more songs on MusicLibrary.py file.
+  <br>
   4- Say anything, Jessi will answer it. As, it integrated with Gemini chatbot. And it uses Gemini to answer your every question.
