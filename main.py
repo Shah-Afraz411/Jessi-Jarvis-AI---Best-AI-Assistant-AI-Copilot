@@ -8,7 +8,7 @@ import musicLibrary
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyCMNwO-7FgxvUgVEwmxNQx-L6QNZ6__dK8")
+genai.configure(api_key="AIzaSyCMNwO-7FgxvUgVEwmxNQx-L6QNZ6__dK8") #Gemini chatBot Api key
 
 # import pyaudio
 # import pocketsphinx
